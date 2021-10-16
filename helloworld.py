@@ -1,2 +1,3 @@
 a = "Hello world!"
-print(a)
+b = "Have a nice day!"
+print(a, b)
